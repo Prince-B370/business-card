@@ -1,0 +1,1 @@
+In this repository, I have included projects in React. They range from simple to more complex ones. More specifically, I developed a business card that obtains the data it displays through various approaches-from hard-coding to use of props. 
